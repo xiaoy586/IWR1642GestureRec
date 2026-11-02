@@ -1,1 +1,9 @@
-readme
+The self-built gesture dataset was collected using a Texas Instruments IWR1642 mmWave radar operating in the 278 76–81 GHz frequency band. 
+The radar frame period was 33 ms, the range resolution was 0.039 m, the maximum unambiguous range was 2.41 m, and the radial velocity resolution was 0.13 m/s.
+
+The public dataset contains 4600 valid gesture samples collected from four subjects with different ages and body heights. 
+The self-built dataset contains 2100 valid gesture samples collected from three subjects. 
+Both datasets include 12 hand gesture categories: arm to left (AL), arm to right (AR), hand away (HA), hand closer (HC), close fist horizontally (CFH), 
+close fist perpendicularly (CFP), hand to right (HR), hand to left (HL), hand rotation palm down (HRPD), hand rotation palm up (HRPU), hand up (HU), 
+and hand down (HD).
+
