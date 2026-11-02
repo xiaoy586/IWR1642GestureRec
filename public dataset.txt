@@ -1,0 +1,4 @@
+The database with all gestures is available at IEEE Data Port：
+
+Grobelny, P.; Narbudowicz, A. Hand Gestures Recorded with mm-Wave FMCW Radar (AWR1642). IEEE Dataport. 31 May 2021.
+Available online: https://ieee-dataport.org/open-access/hand-gestures-recorded-mm-wave-fmcw-radar-awr1642 (accessed on 1 January 2022).

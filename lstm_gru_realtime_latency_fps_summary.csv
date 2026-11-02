@@ -1,0 +1,2 @@
+samples,device,mean_pipeline_latency_ms,std_pipeline_latency_ms,p95_pipeline_latency_ms,mean_fusion_inference_ms,std_fusion_inference_ms,p95_fusion_inference_ms,mean_pipeline_fps
+64,cpu,1666.8432131409645,515.3226612995173,2404.7544598579393,436.78487092256546,113.90284493422088,630.1035284996032,0.684341279400527
